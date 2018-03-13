@@ -49,4 +49,4 @@ class ChatBot:
   def analyzeString(self, checkLibrary, responseLibrary, string):
     pass
     
-    
+    #howdy
